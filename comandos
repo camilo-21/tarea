@@ -1,0 +1,18 @@
+212  git config --global user.name "camilo-21"
+213  git config --global user.email "jcgaleano58@,isena.edu.co"
+214  git add .
+215  git remote add origin https://github.com/camilo-21/tarea.git
+216  git push -u origin main
+217  git add .
+218  git branch -M main
+219  git commit -m "primera edidicion"
+220  git commit -m "cambio en el index"
+221  git add .
+222  git commit -m "cambio en el index"
+223  git remote add origin https://github.com/camilo-21/tarea.git
+224  git branch -M main
+225  git push -u origin main
+226  git push
+227  git add .
+228  git commit -m "agregue informacion al body"
+229  git push
